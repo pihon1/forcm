@@ -1,0 +1,12 @@
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\bin\Debug\GET_FILE.exe.config
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.csprojResolveAssemblyReference.cache
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.GET_FILE.resources
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.Properties.Resources.resources
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.csproj.GenerateResource.Cache
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.exe.licenses
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\bin\Debug\GET_FILE.exe
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\bin\Debug\GET_FILE.pdb
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\bin\Debug\BIZ.dll
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\bin\Debug\DAC.dll
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.exe
+D:\01. 소스\04. 포씨엠\FCM_MES(New)\GET_FILE\GET_FILE\obj\Debug\GET_FILE.pdb
